@@ -26,17 +26,17 @@ Published cohorts included in the analysis:
 
 | Study cohort | Subtypes | Article title | DOI |
 | --- | --- | --- | --- |
-| Akbani et al., 2015 (TCGA) | CM | Genomic Classification of Cutaneous Melanoma | [10.1016/j.cell.2015.05.044](https://doi.org/10.1016/j.cell.2015.05.044) |
-| Hodis et al., 2012 | CM | A Landscape of Driver Mutations in Melanoma | [10.1016/j.cell.2012.06.024](https://doi.org/10.1016/j.cell.2012.06.024) |
-| Hayward et al., 2017 | AM, CM | Whole-genome landscapes of major melanoma subtypes | [10.1038/nature22071](https://doi.org/10.1038/nature22071) |
-| Farshidfar et al., 2022 | AM, CM | Integrative molecular and clinical profiling of acral melanoma links focal amplification of 22q11.21 to metastasis | [10.1038/s41467-022-28566-4](https://doi.org/10.1038/s41467-022-28566-4) |
-| Newell et al., 2022 | AM, CM | Comparative Genomics Provides Etiologic and Biological Insight into Melanoma Subtypes | [10.1158/2159-8290.CD-22-0603](https://doi.org/10.1158/2159-8290.CD-22-0603) |
-| Basurto-Lozada et al., 2026 | AM | Ancestry and somatic profile indicate acral melanoma origin and prognosis | [10.1038/s41586-025-09967-z](https://doi.org/10.1038/s41586-025-09967-z) |
-| Zhang et al., 2025 | AM | Genomic characterization reveals distinct mutational landscape of acral melanoma in East Asian | [10.1016/j.jgg.2024.12.018](https://doi.org/10.1016/j.jgg.2024.12.018) |
-| Liu et al., 2024 | AM | Integrative molecular and spatial analysis reveals evolutionary dynamics and tumor-immune interplay of in situ and invasive acral melanoma | [10.1016/j.ccell.2024.04.012](https://doi.org/10.1016/j.ccell.2024.04.012) |
-| Wang et al., 2024 | AM | The genetic evolution of acral melanoma | [10.1038/s41467-024-50233-z](https://doi.org/10.1038/s41467-024-50233-z) |
-| Liang et al., 2017 | AM | Integrated genomic analyses reveal frequent TERT aberrations in acral melanoma | [10.1101/gr.213348.116](https://doi.org/10.1101/gr.213348.116) |
-| Shi et al., 2022 | AM | Integrative Genomic Profiling Uncovers Therapeutic Targets of Acral Melanoma in Asian Populations | [10.1158/1078-0432.CCR-21-3344](https://doi.org/10.1158/1078-0432.CCR-21-3344) |
+| Akbani et al., 2015 (TCGA) | CM | Genomic Classification of Cutaneous Melanoma | [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.cell.2015.05.044-blue)](https://doi.org/10.1016/j.cell.2015.05.044) |
+| Hodis et al., 2012 | CM | A Landscape of Driver Mutations in Melanoma | [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.cell.2012.06.024-blue)](https://doi.org/10.1016/j.cell.2012.06.024) |
+| Hayward et al., 2017 | AM, CM | Whole-genome landscapes of major melanoma subtypes | [![DOI](https://img.shields.io/badge/DOI-10.1038%2Fnature22071-blue)](https://doi.org/10.1038/nature22071) |
+| Farshidfar et al., 2022 | AM, CM | Integrative molecular and clinical profiling of acral melanoma links focal amplification of 22q11.21 to metastasis | [![DOI](https://img.shields.io/badge/DOI-10.1038%2Fs41467--022--28566--4-blue)](https://doi.org/10.1038/s41467-022-28566-4) |
+| Newell et al., 2022 | AM, CM | Comparative Genomics Provides Etiologic and Biological Insight into Melanoma Subtypes | [![DOI](https://img.shields.io/badge/DOI-10.1158%2F2159--8290.CD--22--0603-blue)](https://doi.org/10.1158/2159-8290.CD-22-0603) |
+| Basurto-Lozada et al., 2026 | AM | Ancestry and somatic profile indicate acral melanoma origin and prognosis | [![DOI](https://img.shields.io/badge/DOI-10.1038%2Fs41586--025--09967--z-blue)](https://doi.org/10.1038/s41586-025-09967-z) |
+| Zhang et al., 2025 | AM | Genomic characterization reveals distinct mutational landscape of acral melanoma in East Asian | [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.jgg.2024.12.018-blue)](https://doi.org/10.1016/j.jgg.2024.12.018) |
+| Liu et al., 2024 | AM | Integrative molecular and spatial analysis reveals evolutionary dynamics and tumor-immune interplay of in situ and invasive acral melanoma | [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.ccell.2024.04.012-blue)](https://doi.org/10.1016/j.ccell.2024.04.012) |
+| Wang et al., 2024 | AM | The genetic evolution of acral melanoma | [![DOI](https://img.shields.io/badge/DOI-10.1038%2Fs41467--024--50233--z-blue)](https://doi.org/10.1038/s41467-024-50233-z) |
+| Liang et al., 2017 | AM | Integrated genomic analyses reveal frequent TERT aberrations in acral melanoma | [![DOI](https://img.shields.io/badge/DOI-10.1101%2Fgr.213348.116-blue)](https://doi.org/10.1101/gr.213348.116) |
+| Shi et al., 2022 | AM | Integrative Genomic Profiling Uncovers Therapeutic Targets of Acral Melanoma in Asian Populations | [![DOI](https://img.shields.io/badge/DOI-10.1158%2F1078--0432.CCR--21--3344-blue)](https://doi.org/10.1158/1078-0432.CCR-21-3344) |
 
 AM, acral melanoma; CM, cutaneous melanoma.
 
