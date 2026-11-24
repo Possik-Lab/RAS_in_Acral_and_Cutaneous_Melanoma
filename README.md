@@ -1,10 +1,10 @@
-# RAS mutations in acral and cutaneous melanoma: an emerging picture with therapeutic relevance
+# RAS Mutations in Acral and Cutaneous Melanoma: An Emerging Picture with Therapeutic Relevance
 
 This repository serves as the central landing page for the analysis related to the manuscript:
 
-> *RAS mutations in acral and cutaneous melanoma: an emerging picture with therapeutic relevance*
+> *RAS Mutations in Acral and Cutaneous Melanoma: An Emerging Picture with Therapeutic Relevance*
 
-The analyses were conducted by the Possik group at the Instituto Nacional de Câncer (INCA). The analysis repository linked below contains its own **README.md** with details of the methods, code and data required to reproduce the results. The input table (one row per sample) is distributed with the analysis repository, in `ras_pipeline/data/`.
+The analyses were conducted by the Possik group at the Brazilian National Cancer Institute (INCA). The analysis repository linked below contains its own **README.md** with details of the methods, code and data required to reproduce the results. The input table (one row per sample) is distributed with the analysis repository, in `ras_pipeline/data/`.
 
 ## Cloning
 
@@ -42,6 +42,7 @@ AM, acral melanoma; CM, cutaneous melanoma.
 
 ## Contact
 
-Marcos Magalhães — marcos.magalhaes@ensino.inca.gov.br
+* Marcos Magalhães ([marcos.magalhaes@ensino.inca.gov.br](mailto:marcos.magalhaes@ensino.inca.gov.br))
+* Patricia Possik ([ppossik@inca.gov.br](mailto:ppossik@inca.gov.br))
 
-Patricia A. Possik Group, Instituto Nacional de Câncer (INCA)
+Patricia A. Possik Group, Brazilian National Cancer Institute (INCA)
