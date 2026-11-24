@@ -1,0 +1,3 @@
+[submodule "ras_pipeline"]
+	path = ras_pipeline
+	url = https://github.com/marcosmagalhaes250199/ras_pipeline.git
